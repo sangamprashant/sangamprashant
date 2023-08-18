@@ -3,6 +3,11 @@
 <h1 align="left">Hello! 👋 My name is Prashant Srivastav, and I'm a Fullstack Developer who specializes in the MERN stack. I'm based in Lucknow.</h1>
 
 ###
+<h2 align="left">About me</h2>
+
+<p align="left">✨ Creating web site since 2022<br>📚 I'm currently learning React<br>🎯 Goals: to be a web developer</p>
+
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sangamprashant&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
