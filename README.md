@@ -56,6 +56,10 @@
 
 ###
 
+![svg](![](./profile-3d-contrib/profile-green-animate.svg))
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/sangamprashant/sangamprashant/output/snake.svg" alt="Snake animation" />
