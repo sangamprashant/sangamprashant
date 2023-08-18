@@ -3,15 +3,18 @@
 <h1 align="left">Hello! 👋 My name is Prashant Srivastav, and I'm a Fullstack Developer who specializes in the MERN stack. I'm based in Lucknow.</h1>
 
 ###
+
 <h2 align="left">About me</h2>
 
 <p align="left">✨ Creating web site since 2022<br>📚 I'm currently learning React<br>🎯 Goals: to be a web developer</p>
 
 ###
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sangamprashant&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sangamprashant&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sangamprashant&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sangamprashant&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
