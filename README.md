@@ -1,5 +1,5 @@
-<p style="font-size: 40px;" align="left">👋 Greetings! I'm Prashant Srivastav, a Fullstack Developer.</p>
-<p style="font-size:25px;" align="left">Specializing in the MERN stack and based in Lucknow.</p>
+<h1 style="border:none" align="left">👋 Greetings! I'm Prashant Srivastav, a Fullstack Developer.</h1>
+<h2 style="border:none" align="left">Specializing in the MERN stack and based in Lucknow.</h2>
 
 ###
 
