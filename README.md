@@ -1,5 +1,5 @@
-<h1 style="border:none" align="left">👋 Greetings! I'm Prashant Srivastav, a Fullstack Developer.</h1>
-<h2 style="border:none" align="left">Specializing in the MERN stack and based in Lucknow.</h2>
+<h1 style="border:none" align="left">👋 Greetings! I'm Prashant Srivastav.</h1>
+<h2 style="border:none" align="left">Experienced software developer skilled in Java, React, JavaScript, MERN, Android, PHP, HTML and CSS,Passionate about creating robust web and mobile application.</h2>
 
 ###
 
