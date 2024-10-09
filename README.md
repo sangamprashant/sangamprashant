@@ -1,5 +1,5 @@
 <h1 style="border:none" align="left">👋 Greetings! I'm Prashant Srivastav.</h1>
-<h2 style="border:none" align="left">Experienced software developer skilled in Java, React, JavaScript, MERN, Android, PHP, HTML and CSS,Passionate about creating robust web and mobile application.</h2>
+<h2 style="border:none" align="left">Experienced MERN STACK developer skilled in Java, React, JavaScript, MERN, Android, PHP, HTML and CSS,Passionate about creating robust web and mobile application.</h2>
 
 ###
 
