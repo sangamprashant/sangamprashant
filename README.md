@@ -4,7 +4,7 @@
 ###
 
 <h2 align="left">👨‍💻 About Me</h2>
-<p align="left">✨ Creating websites since 2022<br>📚 Currently learning Python<br>🎯 Goals: Becoming a proficient web developer</p>
+<p align="left">✨ Creating websites since 2022<br>📚 Currently learning Python<br>🎯 Goal: Becoming a proficient web developer</p>
 
 <img align="right" height="150" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format" />
 
