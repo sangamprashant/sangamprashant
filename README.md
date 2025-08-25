@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.gif" alt="Demo Animation" style="border-radius:5px; width:100%;" />
+  <img src="./assets/banner.gif" alt="Demo Animation" loading="lazy" style="border-radius:5px; width:100%;" />
 </p>
 
 <h1 style="border:none" align="left">👋 Greetings! I'm Prashant Srivastav</h1>
