@@ -2,8 +2,14 @@
   <img src="./assets/banner.gif" alt="Demo Animation" loading="lazy" style="border-radius:5px; width:100%;" />
 </p>
 
-<h1 style="border:none" align="left">👋 Greetings! I'm Prashant Srivastav</h1>
-<h2 style="border:none" align="left">🚀 Mobile & Full-Stack Developer | React Native • MERN • PHP • WordPress</h2>
+<h1 style="border:none" align="left">👋 Hi, I'm Prashant Srivastav</h1>
+<h2 style="border:none" align="left">Software Developer | Mobile & Web Applications | Founder – TechOrbitals</h2>
+
+<p>I am a software developer and freelancer with hands-on experience building real-world web, mobile, and Java-based applications.
+</p>
+<p>I work across frontend, backend, mobile, and desktop software, with a strong focus on clean architecture, usability, and complete delivery.</p>
+
+<p>📍 Lucknow, India <br/>🌍 Open to Remote | Hybrid | Freelance | Full-Time</p>
 
 ## 👨‍💻 About Me
 
@@ -53,8 +59,8 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sangamprashant&layout=compact&theme=radical" height="150" />
-  <img src="https://streak-stats.demolab.com?user=sangamprashant&theme=radical&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sangamprashant&layout=compact&theme=radical" alt="" height="150" />
+  <img src="https://streak-stats.demolab.com?user=sangamprashant&theme=radical&hide_border=false&border_radius=5" height="150" alt="" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -68,5 +74,5 @@
 📖 Preparing for **industry-level problem-solving** with **DSA & system design basics**
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="GitHub Graph" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="" />
 </div>
