@@ -113,15 +113,6 @@ I work across **frontend, backend, mobile, and desktop software**, with a strong
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sangamprashant&layout=compact&theme=radical" alt="" height="150" />
-  <img src="https://streak-stats.demolab.com?user=sangamprashant&theme=radical&hide_border=false&border_radius=5" height="150" alt="" />
-</div>
-
----
-
 ## 🚀 Current Focus
 
 🌱 Expanding expertise in **Shopify, GraphQL & advanced front-end performance**  
