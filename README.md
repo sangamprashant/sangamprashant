@@ -119,9 +119,19 @@ I work across **frontend, backend, mobile, and desktop software**, with a strong
 ⚡ Actively looking for **remote roles & collaborations** in **React Native, MERN, and Shopify development**  
 📖 Preparing for **industry-level problem-solving** with **DSA & system design basics**
 
+<!-- <div align="center">
+  <img src="https://streak-stats.demolab.com?user=sangamprashant&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="100%" alt=""  />
+</div> -->
+
 <div align="center">
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sangamprashant/sangamprashant/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sangamprashant/sangamprashant/output/pacman-contribution-graph.svg">
+  <img alt="" src="https://raw.githubusercontent.com/sangamprashant/sangamprashant/output/pacman-contribution-graph.svg" >
+</picture>
 
 ---
 
